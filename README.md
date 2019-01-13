@@ -20,7 +20,8 @@ username => username for login in mqqt-server | or ""<BR>
 password => password for login in mqqt-server | or ""<BR>
 <BR>
 <H3>Docker-command</H3>
-<PRE>docker run --device=/dev/ttyUSB0 \
+<PRE>docker run \
+  --device=/dev/ttyUSB0 \
   -v &lt;your-path&gt;/app:/app \
   --name jeelink \
   --network &lt;your network&gt; \
