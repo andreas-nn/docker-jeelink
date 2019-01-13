@@ -4,7 +4,7 @@ Put an Jeelink-Stick (LaCrosse) to a free USB-Port.<BR>
 This stick receives the information via 868 MHz from the thermometers.<BR>
 The script jeelink.py decodes it and send it to your mosquitto-server.<BR>
 <BR>
-i.e. jeelink/sensorxy => {"temperature":99.99,"humidity":99,"battery":100|0}
+i.e. jeelink/sensor[xy] => {"temperature":99.99,"humidity":99,"battery":100|0}
 <BR><BR>
 Just now the images are available for arm64 and armhf<BR>
 I am using pine64 with archlinuxarm. But a build at an other platform is possible.<BR>
