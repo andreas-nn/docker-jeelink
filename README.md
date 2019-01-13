@@ -7,11 +7,11 @@ jeelink/sensorxy => {"temperature":99.99,"humidity":99,"battery":100|0}
 <BR>
 <BR>
 <H4>Please defin your parameters in config.json</H4>
-(JSON-style)
+(JSON-style)<BR>
 
 tty-port  => ttyUSB0 (normally used)<BR>
 mqtt-server => your_server_ip<BR>
 mqtt-port => 1883 (normally used)<BR>
-client-id => a name (what you want)<BR>
-username => username for login in mqqt-server | or ""
-password => password for login in mqqt-server | or ""
+client-id => a name (your choice)<BR>
+username => username for login in mqqt-server | or ""<BR>
+password => password for login in mqqt-server | or ""<BR>
