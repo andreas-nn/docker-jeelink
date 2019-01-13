@@ -6,7 +6,7 @@ The script jeelink.py decodes it and send it to your mosquitto-server.<BR>
 jeelink/sensorxy => {"temperature":99.99,"humidity":99,"battery":100|0}
 <BR>
 <BR>
-<H4>Please defin your parameters in config.json</H4>
+<H4>Please define your parameters in config.json</H4>
 (JSON-style)<BR>
 
 tty-port  => ttyUSB0 (normally used)<BR>
