@@ -1,0 +1,9 @@
+{
+"tty-port"    : "/dev/ttyUSB0",
+
+"mqtt-server" : "<my-mosquitto-server>",
+"mqtt-port"   : 1883,
+"client-id"   : "<remote-id>",
+"username"    : "<user>",
+"password"    : "<pass>"
+}
