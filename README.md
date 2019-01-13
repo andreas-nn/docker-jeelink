@@ -2,7 +2,7 @@
 
 Put an Jeelink-Stick (LaCrosse) on a free USB-Port.<BR>
 This stick receives the information via 868 MHz from the thermometers.<BR>
-The script jeelink.py decodes it and send it to your mosquitto-server.<BR>
+The script jeelink.py decodes it and sends it to your mosquitto-server.<BR>
 <BR>
 i.e. jeelink/sensor[xy] => {"temperature":99.99,"humidity":99,"battery":100|0}
 <BR><BR>
