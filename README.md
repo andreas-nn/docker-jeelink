@@ -29,3 +29,4 @@ password => password for login in mqqt-server | or ""<BR>
   andreasnn/jeelink:arm64 \
   jeelink.py
 </PRE>
+Both files "jeelink.py" and "config.json" must be in subdir "./app".
