@@ -1,2 +1,2 @@
-print("ERROR: Bitte cmd definieren")
+print("ERROR: Please define command")
 exit()
