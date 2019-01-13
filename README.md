@@ -8,7 +8,7 @@ i.e. jeelink/sensor[xy] => {"temperature":99.99,"humidity":99,"battery":100|0}
 <BR><BR>
 Just now the images are available for arm64 and armhf<BR>
 I am using pine64 with archlinuxarm. But a build at an other platform is possible.<BR>
-<BR>
+Feel free for changing jeelink.py to your conditions.<BR>
 <H3>Please define your parameters in config.json</H3>
 (JSON-style)<BR>
 <BR>
