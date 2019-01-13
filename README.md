@@ -19,9 +19,9 @@ password => password for login in mqqt-server | or ""<BR>
 <BR>
 <H3>Docker-command</H3>
 <PRE>docker run --device=/dev/ttyUSB0 \
-  -v /docker/jeelink/app:/app \
+  -v \<your-path\>/app:/app \
   --name jeelink \
-  --network <your network> \
+  --network \<your network\> \
   --restart unless-stopped \
   -d \
   andreasnn/jeelink:arm64 \
