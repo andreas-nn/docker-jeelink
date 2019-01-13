@@ -1,6 +1,6 @@
 <H2>Receive Information from technoline thermometers</H2>
 
-Put an Jeelink-Stick (LaCrosse) to an USB-Port.<BR>
+Put an Jeelink-Stick (LaCrosse) to a free USB-Port.<BR>
 This stick receives the information via 868 MHz from the thermometers.<BR>
 The script jeelink.py decodes it and send it to your mosquitto-server.<BR>
 <BR>
